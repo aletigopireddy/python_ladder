@@ -5,4 +5,6 @@ c='Gopi';
 """  block comment """
 d=int(b);
 e=str(a);
-print(a,b,c,d,e);
+print(type(e));
+print(type(b));
+print(a,'\n',b,'\n',c,'\n',d,'\n',e);
